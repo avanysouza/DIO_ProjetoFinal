@@ -1,6 +1,6 @@
 ## Bootcamp .NET Developer
 
-Bootcamp de formação em .NET promovido pela Digital Innovation One Fanpage.
+Projeto final para conclusão do Bootcamp de formação em .NET promovido pela Digital Innovation One Fanpage.
 
 ## Aprendizados
 
